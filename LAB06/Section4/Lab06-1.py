@@ -1,9 +1,7 @@
-# score = input("โปรดป้อนคะแนนของคุณ (หากต้องการหยุดให้ป้อน n): ")
-while (score != "n"):
-# while True:
-#   score = input("โปรดป้อนคะแนนของคุณ (หากต้องการหยุดให้ป้อน n): ")
-#   if score == "n":
-#     break
+while True:
+  score = input("โปรดป้อนคะแนนของคุณ (หากต้องการหยุดให้ป้อน n): ")
+  if score == "n":
+    break
   score = int(score)
   if score >= 80:
       grade = "A"
@@ -22,4 +20,3 @@ while (score != "n"):
   else:
       grade = "F"
   print("เกรดของคุณคือ", grade)
-  score = input("โปรดป้อนคะแนนของคุณ (หากต้องการหยุดให้ป้อน n): ")

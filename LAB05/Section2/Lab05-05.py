@@ -3,7 +3,8 @@ angle2 = int(input("ป้อนขนาดของมุมที่สอง
 angle3 = int(input("ป้อนขนาดของมุมที่สาม: "))
 
 total = angle1 + angle2 + angle3
-if angle1 + angle2 + angle3 != 180:
+if total > 180:
+  print(total)
   print("มุมทั้งหมดรวมกันต้องไม่เกิน 180 องศา!!")
 else:
   if angle1 == angle2 == angle3:
@@ -12,7 +13,7 @@ else:
   elif angle1 == 90 or angle2 == 90 or angle3 == 90:
     print("ขนาดมุมรวมทั้งหมด:",total)
     print("สามเหลี่ยมมุมฉาก")
-  elif angle1 < 90 and angle2 < 90 and angle3 < 90:
+  elif angle1 == angle2 or angle2 == angle3 or angle3 == angle1:
     print("ขนาดมุมรวมทั้งหมด:",total)
     print("สามเหลี่ยมหน้าจั่ว")
   else:

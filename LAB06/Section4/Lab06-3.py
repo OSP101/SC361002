@@ -3,4 +3,4 @@ factorial = 1
 for i in range(1, number + 1):
   factorial *= i
 
-print("ค่าแฟกทอเรียลของ {} คือ {}".format(number, factorial))
+print("ค่าแฟกทอเรียลของ "+str(number)+" คือ "+str(factorial))
