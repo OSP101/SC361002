@@ -1,11 +1,14 @@
-minimum_value = float('inf')
-maximum_value = float('-inf')
+minimum_value = 0.0
+maximum_value = 0.0
 sum_values = 0
 count = 0
 
 user_input = float(input("ป้อนตัวเลข (หากต้องการหยุดใส่ 0): "))
 
 while user_input != 0:
+    if count == 0:
+        minimum_value = maximum_value = user_input
+
     if user_input < minimum_value:
         minimum_value = user_input
 
