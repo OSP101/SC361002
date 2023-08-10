@@ -7,7 +7,6 @@ while True:
     if(len(number_cha) != 0):
         print("------------------------------")
         print("อักขระที่ป้อนเข้ามามีตัวเลขดังนี้ :",number_cha[:-2])
-        print(number_cha)
         number_cha = ""
     else:
         print("------------------------------")
