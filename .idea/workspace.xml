@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cb94d3a-b7a9-4027-ba6d-de78f09b812d" name="Changes" comment="update lab09" />
+    <list default="true" id="5cb94d3a-b7a9-4027-ba6d-de78f09b812d" name="Changes" comment="update lab09">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB09/Section 3/Lab09 - Python List  and Tuple.docx" beforeDir="false" afterPath="$PROJECT_DIR$/LAB09/Section 3/Lab09 - Python List  and Tuple.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB09/Section 3/Lab09-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB09/Section 3/Lab09-3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "OSP101"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OSP101&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -66,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693125098244</updated>
       <workItem from="1693125099295" duration="2461000" />
+      <workItem from="1693171740718" duration="1115000" />
     </task>
     <servers />
   </component>
@@ -84,8 +89,8 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SC361002$Lab09_1.coverage" NAME="Lab09-1 Coverage Results" MODIFIED="1693125907404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
-    <SUITE FILE_PATH="coverage/SC361002$Lab09_2.coverage" NAME="Lab09-2 Coverage Results" MODIFIED="1693129982824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
-    <SUITE FILE_PATH="coverage/SC361002$Lab09_3.coverage" NAME="Lab09-3 Coverage Results" MODIFIED="1693130291171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
+    <SUITE FILE_PATH="coverage/SC361002$Lab09_1.coverage" NAME="Lab09-1 Coverage Results" MODIFIED="1693171775306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
+    <SUITE FILE_PATH="coverage/SC361002$Lab09_2.coverage" NAME="Lab09-2 Coverage Results" MODIFIED="1693172245374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
+    <SUITE FILE_PATH="coverage/SC361002$Lab09_3.coverage" NAME="Lab09-3 Coverage Results" MODIFIED="1693172723506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
   </component>
 </project>
