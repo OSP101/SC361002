@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17e3685-4c0b-48d8-91f9-224ff35ec6bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB08/Section 4/Lab08-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB08/Section 4/Lab08-3.py" afterDir="false" />
+    <list default="true" id="5cb94d3a-b7a9-4027-ba6d-de78f09b812d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LAB09/Section 3/Lab09-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB09/Section 3/Lab09-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB09/Section 3/Lab09-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SC361002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SC361002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB06/.idea/LAB06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB06/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB06/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,7 +36,7 @@
   "customColor": "",
   "associatedIndex": -1
 }]]></component>
-  <component name="ProjectId" id="2ToIZAIywZ9R307jey0sdRilhB6" />
+  <component name="ProjectId" id="2UYmsuFnI0Hyal4AdFLdemNmCWr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,22 +48,31 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "O:/TA/SC361002",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f17e3685-4c0b-48d8-91f9-224ff35ec6bd" name="Changes" comment="" />
-      <created>1691703060127</created>
+      <changelist id="5cb94d3a-b7a9-4027-ba6d-de78f09b812d" name="Changes" comment="" />
+      <created>1693125098244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1691703060127</updated>
-      <workItem from="1691703061282" duration="58000" />
+      <updated>1693125098244</updated>
+      <workItem from="1693125099295" duration="2461000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SC361002$Lab09_1.coverage" NAME="Lab09-1 Coverage Results" MODIFIED="1693125907404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
+    <SUITE FILE_PATH="coverage/SC361002$Lab09_2.coverage" NAME="Lab09-2 Coverage Results" MODIFIED="1693129982824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
+    <SUITE FILE_PATH="coverage/SC361002$Lab09_3.coverage" NAME="Lab09-3 Coverage Results" MODIFIED="1693130291171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/Section 3" />
   </component>
 </project>
