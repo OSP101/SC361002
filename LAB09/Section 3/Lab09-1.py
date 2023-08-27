@@ -18,4 +18,5 @@ while True:
         print("---------------------------------")
         print("วิชาทั้งหมด :",subject)
     elif(select == "y"):
+        print("จบการทำงาน")
         break

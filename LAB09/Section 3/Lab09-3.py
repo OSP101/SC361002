@@ -2,7 +2,7 @@ A=(80,'A')
 B=(70,'B')
 C=(50,'F')
 while True:
-    scoer = float(input("กรอกคะแนน : "))
+    scoer = float(input("กรอกคะแนนของคุณ : "))
     if scoer >= A[0]:
         print('คะแนน :', scoer,"ได้เกรด :", A[1])
     elif scoer >= B[0]:
