@@ -14,6 +14,7 @@ while True:
         print("---------------------------------")
         data = input("ป้อนวิชาที่ต้องการจะลบ : ")
         subject.remove(data)
+        continue
     elif(select == "p"):
         print("---------------------------------")
         print("วิชาทั้งหมด :",subject)
