@@ -18,7 +18,6 @@ for student_id, student_info in dict_student.items():
     elif student_info["gender"] == "F":
         female_count += 1
     total_gpa = total_gpa + student_info["GPA"]
-    print(student_info)
 
 average_gpa = total_gpa / len(dict_student)
 
